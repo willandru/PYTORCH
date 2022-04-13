@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+bin/
+etc/
+lib/
+.ipynb_checkpoints/
+share/
+pyvenv.cfg
